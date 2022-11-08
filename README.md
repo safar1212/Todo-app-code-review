@@ -4,7 +4,7 @@
 
 ## Live demo
 
-The website was build using Github Pages: [Live Version](https://safar1212.github.io/Todo-list-software/)
+ [Live Version](https://safar1212.github.io/Todo-list-software/)
 
 ## Built With
 
